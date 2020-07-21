@@ -1,6 +1,6 @@
 # Kittens {#kittens}
 
-## Get All Kittens
+## Get All Kittens {#kittens_get_all}
 
 ```ruby
 require 'kittn'
