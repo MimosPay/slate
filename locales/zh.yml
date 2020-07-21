@@ -1,0 +1,8 @@
+---
+zh:
+  intro: "介绍"
+  swith_lang: "Switch to"
+  guide:
+    title: "指南"
+    text: "这是<b>HTML安全</b>的内容"
+    request_limit: "请求限制: 每秒%{count}次"

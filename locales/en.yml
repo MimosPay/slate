@@ -1,0 +1,8 @@
+---
+en:
+  intro: "Introduce"
+  swith_lang: "切换至"
+  guide:
+    title: "Guide"
+    text: "This is <b>HTML safe</b> text."
+    request_limit: "The request rate limit rule: %{count} times per second"
